@@ -16,12 +16,18 @@ Additionally, you can easily install Python from Microsoft Store
 
 # To install packages 
 You can do that by running this on command line 
->> pip install <package name>
+'''
+pip install <package name>
+'''
 or
->> python3 -m pip install <package name> 
+
+'''
+python3 -m pip install <package name> 
+'''
 
 # Running the program (if you have all the packages)  
 You can run it by first changing your directory to where you have downloaded the repo, recommend leaving the repo in your download folder after you downloaded it 
->> cd <repo>
->> python3 map.py
-
+'''
+cd <repo>
+python3 map.py
+'''
