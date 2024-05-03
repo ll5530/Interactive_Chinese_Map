@@ -31,3 +31,5 @@ You can run it by first changing your directory to where you have downloaded the
 
 >> cd <repo>  
 >> python3 map.py  
+
+https://docs.google.com/document/d/1NHOtCc81KhBYxKLkB2yIxXiUlqVWvzY13Ve-978Tt5I/edit?usp=sharing
